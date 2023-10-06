@@ -13,6 +13,4 @@ The Red-Black Tree Visualization is an interactive command-line tool designed to
 
 ---
 
-## Getting Started
-
-Follow these steps to get started with the Red-Black Tree Visualization project.
+[Red Black Tree Application Visual](./Red Black Image.png)
